@@ -1,1 +1,1 @@
-# simple-angular-page.github.io-
+# simple-angular-page.github.io
